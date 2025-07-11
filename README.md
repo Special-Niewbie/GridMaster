@@ -36,7 +36,20 @@ This version introduces a completely redesigned GUI with additional customizatio
 - The window is now **draggable** for convenience and better screen interaction.
 
 🖼️ Screenshot:
-![Grid Master Mod By V0RT3X](gitAssets/GMmainGridMasterMod_By_V0RT3X.png)
+
+<br>
+
+<img src="gitAssets/GMmainGridMasterMod_By_V0RT3X.png" alt="Grid Master Mod By V0RT3X" style="width: 40%; height: auto;">
+
+
+
+<br>
+
+<img src="gitAssets/Rectangular.png" alt="Grid Master Mod By V0RT3X" style="width: 40%; height: auto;"> <img src="gitAssets/Isometric.png" alt="Grid Master Mod By V0RT3X" style="width: 40%; height: auto;">
+
+<br>
+
+<img src="gitAssets/Radial.png" alt="Grid Master Mod By V0RT3X" style="width: 40%; height: auto;"><img src="gitAssets/Perspective.png" alt="Grid Master Mod By V0RT3X" style="width: 40%; height: auto;">
 
 ---
 
